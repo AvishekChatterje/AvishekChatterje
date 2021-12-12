@@ -23,23 +23,27 @@
  - Campus Business Ambassador of PrepBytes (Nov,2021 - present)
   
   #### Tech that I'm familiar with
-  <br>
-  |Java|J2EE|Spring Concepts|Dependency Injection|
+<!--   <br> -->
+  |Java|J2EE|Spring MVC|Dependency Injection|
   |:--|:--|:--|:--|
   |JavaScript|Node JS|Express JS|React JS|
   |Database Management|SQL|Oracle RDBMS|Mongo DB|
   |Git|GitHub|
   
-  #### Application Tools I'm familiar with
   <br>
+  
+  #### Application Tools I'm familiar with
+<!--   <br> -->
   |Eclipse EE| IntelliJ|
   |:--|:--|
   |VS Code|Postman|
   |Mongo DB compass|Dev C++|
  
+ 
+  <br>
+  <br><br>
+  Thank you for coming to the end. Please feel free to take a look at the repositories also. 
   
-  
-  <br>Feel free to take a look at the repositories
  
 
 
