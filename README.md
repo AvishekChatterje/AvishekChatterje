@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- <img src="C:\Users\Avishek\Desktop\hello.gif"></img> -->
 <!-- ![image](https://user-images.githubusercontent.com/76168294/145725559-ee3bac34-6b5b-4613-b3f4-aa45722b6f6c.png) -->
-<a href="url"><img src="https://c.tenor.com/lUFliafCu_MAAAAC/hello.gif" align="right" height="200" width="200" ></a>
+<a href="url"><img src="https://c.tenor.com/lUFliafCu_MAAAAC/hello.gif" align="right" height="200" width="200"></a>
 
  ## Hi there. <a href="url"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" align="center" height="40" width="40"></a>
  I am Avishek Chatterjee. I am final year student in my Bachelors in Computer Science. <br>
@@ -13,12 +13,12 @@
 <a href="https://discordapp.com/users/Avishek8083/">![discord-fill](https://user-images.githubusercontent.com/76168294/145728077-adb1850a-b4e1-4e93-b045-7aecb1e58c71.png)
 </a>
 <br>
- ### About me 
+ ### About me 🙂
  
  - I am a student from Kolkata, West Bengal pursuing his Bachelors in Computer Science and Engineering <a href="url"><img src="https://user-images.githubusercontent.com/76168294/145728314-ce3b991f-6756-4f56-8490-169959b908e6.png" align="center" height="20" width="20" ></a>
  - I am a learner and enjoy to learn new things and develop various types of applications
  
- ### My work experiences <a href="url"><img src="https://user-images.githubusercontent.com/76168294/145728544-9038dc68-5883-4ff0-a1c1-5e7533668f1a.jpg" align="center" height="20" width="20" ></a>
+ ### My work experiences 🙌
  - Full stack Development Intern at Full Creative (Oct, 2021 - present)
  - Campus Business Ambassador of PrepBytes (Nov,2021 - present)
   
