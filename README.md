@@ -39,7 +39,7 @@
   |:--|:--|
   |VS Code|Postman|
   |Mongo DB compass|Dev C++|
-  |Sonarqube|
+  |Sonarqube|JUnit 5|
  
  
   <br>
