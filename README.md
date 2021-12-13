@@ -39,6 +39,7 @@
   |:--|:--|
   |VS Code|Postman|
   |Mongo DB compass|Dev C++|
+  |Sonarqube|
  
  
   <br>
