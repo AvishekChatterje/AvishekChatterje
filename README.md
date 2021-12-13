@@ -4,7 +4,7 @@
 <a href="url"><img src="https://c.tenor.com/lUFliafCu_MAAAAC/hello.gif" align="right" height="200" width="200"></a>
 
  ## Hi there. <a href="url"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" align="center" height="40" width="40"></a>
- I am Avishek Chatterjee. I am final year student in my Bachelors in Computer Science. <br>
+ I am <a href="https://avishekchatterje.github.io/">Avishek Chatterjee</a>. I am final year student in my Bachelors in Computer Science and Engineering. <br>
  I am open to work in both internship and full time roles <br><br>
  <a href="https://www.linkedin.com/in/avishek-chatterjee-b1a86b205/">![linkedin-box-fill](https://user-images.githubusercontent.com/76168294/145727228-afdb05e2-e18c-4c00-bc3c-fc93ec194c6c.png)</a>
  <a href="https://twitter.com/Avishek42024088">![twitter-fill](https://user-images.githubusercontent.com/76168294/145727472-d7036e60-28ff-4b42-9a7e-67bda4037bb0.png)
