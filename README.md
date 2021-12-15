@@ -17,8 +17,8 @@
  - I am a learner and enjoy to learn about new tech and concepts and develop various types of applications
  
  ### My work experiences 🙌
- - Full stack Development Intern at Full Creative (Oct, 2021 - present)
- - Campus Business Ambassador of PrepBytes (Nov,2021 - present)
+ - Full stack Development Intern at Full Creative, Chennai (Oct, 2021 - present)
+ - Campus Business Ambassador of PrepBytes, Delhi (Nov,2021 - present)
 
   #### Tech that I'm familiar with
 <!--   <br> -->
