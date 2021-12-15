@@ -13,7 +13,7 @@
 <br>
  ### About me 🙂
  
- - I am a student from Kolkata, West Bengal pursuing his Bachelors in Computer Science and Engineering <a href="url"><img src="https://user-images.githubusercontent.com/76168294/145728314-ce3b991f-6756-4f56-8490-169959b908e6.png" align="center" height="20" width="20" ></a>
+ - I am a student from Kolkata, India pursuing his Bachelors in Computer Science and Engineering <a href="url"><img src="https://user-images.githubusercontent.com/76168294/145728314-ce3b991f-6756-4f56-8490-169959b908e6.png" align="center" height="20" width="20" ></a>
  - I am a learner and enjoy to learn about new tech and concepts and develop various types of applications
  
  ### My work experiences 🙌
