@@ -17,19 +17,17 @@
  - I am a learner and enjoy to learn about new tech and concepts and develop various types of applications
  
  ### My work experiences 🙌
- - Full stack Development Intern at Full Creative, Chennai (Oct, 2021 - present)
+ - Full stack Development Intern at Full Creative, Chennai (Oct, 2021 - Nov, 2021)
  - Campus Business Ambassador of PrepBytes, Delhi (Nov,2021 - present)
 
   #### Tech that I'm familiar with
-<!--   <br> -->
 
 
 
 
-
-  |Java|J2EE|Spring MVC|Dependency Injection|
+  |Java|J2EE|Spring MVC|Spring Boot|
   |:--|:--|:--|:--|
-  |JavaScript|Node JS|Express JS|React JS|
+  |JavaScript|Node JS|React JS|
   |Database Management|SQL|Oracle RDBMS|Mongo DB|
   |Git|GitHub|
   
